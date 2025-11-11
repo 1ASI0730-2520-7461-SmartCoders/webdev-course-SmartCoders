@@ -29,25 +29,25 @@ Este taller está dividido en 5 segmentos, cada uno a cargo de un responsable su
 
 ### Segmento P. 2: Contenido Estructural HTML (15 minutos)
 * **Descripción**: Creación del contenido completo de la "Tarjeta de Perfil" utilizando títulos, párrafos, la etiqueta de imagen y una lista de elementos favoritos.
-* **Responsable Sugerido**: Persona 2: El Maquetador
+* **Enlace del video**:
 * **Consejos clave**: Usa `<h1>`, `<p>`, `<img>`, `<ul>`, y asigna la clase `.perfil-card` al contenedor principal.
 * **Práctica**: [Clic para programar el Contenido]() 
 
 ### Segmento P. 3: Estilos Globales y Tipografía CSS (10 minutos)
 * **Descripción**: Vincular la hoja de estilos CSS. Aplicar estilos generales al `<body>` (fondo y colores base) y estilizar la tipografía (fuente, tamaño, color).
-* **Responsable Sugerido**: Persona 3: El Estilista
+* **Enlace del video**:
 * **Consejos clave**: Usa el selector `body` para estilos globales y `color`, `font-family` para textos.
 * **Práctica**: [Clic para aplicar Estilos Base]() 
 
 ### Segmento P. 4: El Diseño de la Tarjeta (Modelo de Caja) (15 minutos)
 * **Descripción**: Aplicar el Modelo de Caja al contenedor `.perfil-card` para darle dimensiones (`width`), espacio interno (`padding`), espacio externo (`margin`) y centrar el elemento en la página.
-* **Responsable Sugerido**: Persona 4: El Diseñador
+* **Enlace del video**:
 * **Consejos clave**: El centrado se logra con `margin: 0 auto;`.
 * **Práctica**: [Aplicar estilo y Layout]()
 
 ### Segmento P. 5: Toques Finales y Conclusión (10 minutos)
 * **Descripción**: Añadir detalles estéticos finales como bordes redondeados (`border-radius`) y sombras (`box-shadow`). Resumen de los conceptos clave y próximos pasos.
-* **Responsable Sugerido**: Persona 5: El Finalizador
+* **Enlace del video**:
 * **Consejos Clave**: Valida el código y explora más en la Documentación Web de MDN.
 * **Proyecto Final**: [Crea y Guarda tu Perfil]()
     * **¡No es necesario registrarse!**
@@ -72,7 +72,7 @@ Este taller está dividido en 5 segmentos, cada uno a cargo de un responsable su
 * **Compartir**: Usa el hashtag **#WebDevBeginners**
 
 **¡Gracias por completar el curso!** 🎉
-```
+
 ---
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas
@@ -81,10 +81,12 @@ Período 202520
 1ASI0730 Aplicaciones Web
 NRC 7461
 
-**Nombre del equipo**: SmartCoders
-**Líder del equipo**: Angel Guillermo Berrospi Marin U202114701
-**Integrantes del equipo**:     
+* **Nombre del equipo**: SmartCoders
+* **Líder del equipo**: Angel Guillermo Berrospi Marin U202114701
+* **Integrantes del equipo**:     
     * Merly Salon Puerta U20201b772
     * Gabriel Ferran Espinar Martínez U202310436
     * Orellana Rodriguez Mel Andree U202116018
-**Fecha de entrega**: [Fecha]
+    * Daniel Stalin Palomino Murga U20201B253
+
+* **Fecha de entrega**:
